@@ -1,7 +1,7 @@
-Uzdevuma apraksts:
+# Uzdevuma apraksts:
 
 
-Analysis of Windows Event Logs using Pandas Dataframe
+# Analysis of Windows Event Logs using Pandas Dataframe
 
 
 Python Pandas is a library that provides data science capabilities to Python. Using this library, you can use data structures like DataFrames. This data structure allows you to model the data like an in-memory database. By doing so, you will get query-like capabilities over the data set.
