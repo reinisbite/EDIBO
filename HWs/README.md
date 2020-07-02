@@ -18,3 +18,8 @@ A DataFrame is a table much like in SQL or Excel. It's similar in structure, too
 DataFrames are particularly useful because powerful methods are built into them. In Python, methods are associated with objects, so you need your data to be in the DataFrame to use these methods. DataFrames can load data through a number of different data structures and files, including lists and dictionaries, csv files, excel files, and database records (more on that here).
 
 https://mode.com/python-tutorial/pandas-dataframe/
+
+
+![Pandas Dataframe](https://media.geeksforgeeks.org/wp-content/uploads/finallpandas.png)
+
+*https://www.geeksforgeeks.org/python-pandas-dataframe/*
