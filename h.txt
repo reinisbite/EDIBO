@@ -1,0 +1,183 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  hghgjj
+    4  VirtualBox --startvm XP
+    5  pwd
+    6  \
+    7  clear
+    8  exit
+    9  VirtualBox --startvm XP
+   10  clear
+   11  history
+   12  pwd
+   13  ls
+   14  ls /
+   15  ls/
+   16  ls /home/user
+   17  ls/ home/SC/
+   18  ls /home/SC
+   19  ls /HOME/SC
+   20  ls /home/sc
+   21  ls
+   22  desktop
+   23  ls
+   24  pwd
+   25  ls
+   26  cd
+   27  pwd
+   28  ls / desktop
+   29  desktop
+   30  / desktop
+   31  cd
+   32  pwd
+   33  ls
+   34  cd Desktop
+   35  ls
+   36  history
+   37  ls
+   38  mkdir
+   39  mkdir / abc
+   40  mkdir --help
+   41  mkdir abc
+   42  mkdir ABC
+   43  ls
+   44  mkdir cba
+   45  ls
+   46  mkdir bac
+   47  mkdir CBA
+   48  Mkdir CBA
+   49  ls
+   50  mkdir CAB
+   51  ls
+   52  mkdir acb
+   53  ls
+   54  mkdir bca
+   55  ls
+   56  date
+   57  ls -l
+   58  ls - l CAB
+   59  ls -l CAB
+   60  ls -l /home/user/Desktop
+   61  cd
+   62  pwd
+   63  cd /etc
+   64  cd
+   65  cd /pwd
+   66  lsls
+   67  ls
+   68  cd
+   69  ls 
+   70  etc
+   71  ls
+   72  /etc
+   73  ls |head
+   74  :/etc$ ls |head
+   75  ls |tail
+   76  cd /pwd
+   77  ls -l /home/user/Desktop
+   78  ls |head -n
+   79  ls |head -c
+   80  ls |head-n
+   81  ls |head -n
+   82  ls |head -n 3
+   83  cd
+   84  pwd
+   85  ls
+   86  cd /etc
+   87  ls |head -n3
+   88  ls |head
+   89  ls |head cat state
+   90  ls |head -n3 |
+   91  ls |head -n3 |i
+   92  ls |head -n3 |-i
+   93  ls |head -n 3
+   94  ls |head -wc - l
+   95  ls | head -n 3 |wc -l
+   96  ls | head -n 3 | wc -c
+   97  ls | wc -c
+   98  cd
+   99  ls
+  100  ls Desktop
+  101  ls | wc -c
+  102  ls | wc -m
+  103  ls Desktop/| wc -c
+  104  ls Desktop/| wc -m
+  105  ls Desktop/| wc -m--help
+  106  ls Desktop/| wc -m --help
+  107  java
+  108  java -version
+  109  Python /version
+  110  python
+  111  cmd
+  112  pwd
+  113  ls
+  114  cd /Desktop
+  115  cd Desktop
+  116  pwd
+  117  cd
+  118  a=123
+  119  echo
+  120  echo a
+  121  $a
+  122  b=kaķis
+  123  echo $b
+  124  c=39393
+  125  echo $c
+  126  d=esi sveiks!
+  127  escho $d
+  128  d="esi sveiks"
+  129  echo $d
+  130  echo $b $c
+  131  echo $a + $b
+  132  echo $a,$b!
+  133  echo $date
+  134  echo date !
+  135  d=date
+  136  Echo &date
+  137  d=date
+  138  Echo &dateEcho &dateexit
+  139  echo 'date'
+  140  d=date|echp &d
+  141  exit
+  142  echo date
+  143  d=date|echo &d
+  144  echo 'date'
+  145  echo $a
+  146  z=44
+  147  echo &z
+  148  echo $a+$z
+  149  a=123
+  150  echo $a+$z
+  151  $((a+b))
+  152  echo $((a+b))
+  153  echo $((a + b))
+  154  $a+=$b
+  155  myvar=$(expr&a + $b)
+  156  ==(&a +$b)
+  157  c=$(($a+$b))
+  158  c=$(($a+ $b))
+  159  echo$b
+  160  b=33
+  161  echo$b
+  162  echo $b
+  163  c=$(($a+$b))
+  164  echo $c
+  165  sum=$(($a+$b))
+  166  echo $sum
+  167  echo$((a+z))
+  168  echo $((a+b))
+  169  pwd
+  170  ls
+  171  echo $((a+b))
+  172  echo $((a+b)) EUR
+  173  echo $((a+b)) EUR a.txt
+  174  ls
+  175  echo $((a+b)) EUR > a.txt
+  176  ls
+  177  ls -l a.txt
+  178  cat a.txt
+  179  tail a.txt
+  180  date
+  181  history tail
+  182  history
+  183  history >h.txt
