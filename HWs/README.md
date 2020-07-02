@@ -3,6 +3,25 @@
 
 # Analysis of Windows Event Logs using Pandas Dataframe
 
+## The Elements of Windows Event Logs
+Each event in a log entry contains the following information:
+
+Date: The date the event occurred.
+
+Time: The time the event occurred.
+
+User: The username of the user logged onto the machine when the event occurred.
+
+Computer: The name of the computer.
+
+Event ID: A Windows identification number that specifies the event type.
+
+Source: The program or component that caused the event.
+
+Type: The type of event, including information, warning, error, security success audit or security failure audit.
+
+*https://searchwindowsserver.techtarget.com/definition/Windows-event-log*
+
 
 Python Pandas is a library that provides data science capabilities to Python. Using this library, you can use data structures like DataFrames. This data structure allows you to model the data like an in-memory database. By doing so, you will get query-like capabilities over the data set.
 
