@@ -48,3 +48,13 @@ x ^ y
 Does a "bitwise exclusive or". Each bit of the output is the same as the corresponding bit in x if that bit in y is 0, and it's the complement of the bit in x if that bit in y is 1.
 
 * https://wiki.python.org/moin/BitwiseOperators *
+
+9:58 Vēl pagaidām nesapratu. Meklēšu vēl info
+
+Izskatās, ka binārās operācijas varētu saprast ja iedziļinātos kā veidojas binārie skaitļi.
+
+10:24 Apskatu binārā koda atšifrējumu
+
+![Tabula](https://lh3.googleusercontent.com/proxy/YvO7tqPS8ZYl-lp8hKrCG3PhbwHRSaSM6cp_IUSg7nhk4qlvyJyMHa7bpM7P8DtMO0LLb8W2UD7XYzQkGb8UoBF626wiEsAOFVtgtzaAjgToLAotliIc53eRR9tyMQ)
+
+
