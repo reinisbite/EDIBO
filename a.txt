@@ -1,1 +1,81 @@
 156 EUR
+   1  VirtualBox --startvm XP
+    2  quartus
+    3  vim
+    4  history
+    5  cd ../../
+    6  pwd
+    7  echo $ $user
+    8  echo $USER
+    9  echo $HOME
+   10  cd /
+   11  pwd
+   12  cd $HOME
+   13  pwd
+   14  date
+   15  echo $PS1
+   16  $PS1=$
+   17  PS1=$
+   18  PSI=$
+   19  PS1= $
+   20  PS1= W
+   21  PSI= %
+   22  PSI= ^
+   23  echo
+   24  PSI=$
+   25  PSI =R
+   26  echo PSI
+   27  PSI=$
+   28  PS1=$
+   29  PS1=" "$
+   30  PS1="& "
+   31  PS1=
+   32  pwd
+   33  ls Desktop/
+   34  mkdir
+   35  ls 
+   36  mkdir
+   37  PS1="$ "
+   38  pico
+   39  whereis pico
+   40  pwd
+   41  ls -l /user/bin/
+   42  ls -l/user/bin/
+   43  pwd
+   44  ls -l /usr/bin/ |wc -l
+   45  ls -l /usr/bin/pico
+   46  ls -l /etc/alternatives/pico
+   47  ls -l /bin/nano
+   48  pwd
+   49  vim
+   50  vim
+   51  $ PSI="$ "
+   52  PS1="$ "
+   53  echo "Welcome $i 1000 "
+   54  for Hallo in 1000; echo hallo
+   55  #!/bin/bash
+   56  for i in $ (ls); do
+   57  for i in 12345 ..N; do comand1; comand2; comand1000; done
+   58  echo i\
+   59  for i in 12345; do echo "welcome $i times"; done
+   60  echo i
+   61  echo $i
+   62  for date in 12345..N; do command1; command2; command1000; done
+   63  for i in {1..1000}; vim
+   64  vim 01.sh
+   65  ./01.sh
+   66  vim 01.sh
+   67  ./01.sh
+   68  for i in {0..5}; do echo "$i"; done
+   69  for i in {0..5}; do echo "$i^"; done
+   70  for i in {0..5}; do echo "$i^2"; done
+   71  for i in {0..5}; do echo "$i**"; done
+   72  for i in {0..5}; do echo "$i"; done
+   73  $((5**2))
+   74  echo $((5**2))
+   75  for i in {0..5}; do echo "$i $((i*i))"; done
+   76  for i in {0..5}; do echo "$i $((i*i*i))"; done
+   77  for i in {0..5}; do echo "$i $((i*i*i))" $i $((i*i))  ; done
+   78  for i in {0..5}; do echo "$i $((i*i*i))"  ; done
+   79  cd Edibo
+   80  history
