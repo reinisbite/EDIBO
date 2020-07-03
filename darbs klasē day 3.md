@@ -44,4 +44,5 @@ gg sākums
 Shift+g Beigas
 / (teksts) lai meklētu
 
+
  
