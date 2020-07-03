@@ -21,3 +21,13 @@ whereis - Kur atrodas
 $PATH - Atrast ceļu komandai
 PATH=$PATH:~
 chmod 740
+
+
+VIM redaktorā, lai izietu :q!
+
+MC lai izietu Ctrl + 0  
+
+Saglabāt Esc:wq
+
+Komandas Shell
+https://docs.cs.cf.ac.uk/notes/linux-shell-commands/
