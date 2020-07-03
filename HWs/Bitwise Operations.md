@@ -57,4 +57,11 @@ Izskatās, ka binārās operācijas varētu saprast ja iedziļinātos kā veidoj
 
 ![Tabula](https://lh3.googleusercontent.com/proxy/YvO7tqPS8ZYl-lp8hKrCG3PhbwHRSaSM6cp_IUSg7nhk4qlvyJyMHa7bpM7P8DtMO0LLb8W2UD7XYzQkGb8UoBF626wiEsAOFVtgtzaAjgToLAotliIc53eRR9tyMQ)
 
+*https://lh3.googleusercontent.com/proxy/YvO7tqPS8ZYl-lp8hKrCG3PhbwHRSaSM6cp_IUSg7nhk4qlvyJyMHa7bpM7P8DtMO0LLb8W2UD7XYzQkGb8UoBF626wiEsAOFVtgtzaAjgToLAotliIc53eRR9tyMQ*
+
+# Pārvēst bināros skaitļus Decimālajos
+
+Lai kādu binārajā skaitīšanas sistēmā pierakstītu skaitli iegūtu decimālajā skaitīšanas sistēmā, tā ciparus reizina ar attiecīgajām divnieka pakāpēm, piemēram, ![attēls](https://wikimedia.org/api/rest_v1/media/math/render/svg/804a89c3db66ba10d1478b483f814cfb5acd02aa)
+
+![attēls 2](https://wikimedia.org/api/rest_v1/media/math/render/svg/f82c21eabedd91293e4e653f5c6a107e41fe7a30)
 
