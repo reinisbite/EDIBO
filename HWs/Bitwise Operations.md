@@ -65,3 +65,4 @@ Lai kādu binārajā skaitīšanas sistēmā pierakstītu skaitli iegūtu decim�
 
 ![attēls 2](https://wikimedia.org/api/rest_v1/media/math/render/svg/f82c21eabedd91293e4e653f5c6a107e41fe7a30)
 
+
