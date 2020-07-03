@@ -9,4 +9,15 @@ day3:
 nano
 ls -l -drwxrwxrwx
 adresses - absolute (/ -root directory), relative (., .., ~)
-hexdump -C
+hexdump -C (hex kods vai ASCII simboli)
+ 
+xxd - b (binary code)
+user@epk428-9:~$ xxd -b abc.txt
+00000000: 00110001 00110010 00110011 00110100 00110101 00001010  12345.
+user@epk428-9:~$ 
+
+1 byte = 8bits (o/1-2stāvokļi) =>uniqu codes  2^8 = 256 
+whereis - Kur atrodas 
+$PATH - Atrast ceļu komandai
+PATH=$PATH:~
+chmod 740
