@@ -61,8 +61,18 @@ Izskatās, ka binārās operācijas varētu saprast ja iedziļinātos kā veidoj
 
 # Pārvēst bināros skaitļus Decimālajos
 
+## Mācību video Binārā sistēma
+http://www.macibuvideo.lv/binara-sistema
+
 Lai kādu binārajā skaitīšanas sistēmā pierakstītu skaitli iegūtu decimālajā skaitīšanas sistēmā, tā ciparus reizina ar attiecīgajām divnieka pakāpēm, piemēram, ![attēls](https://wikimedia.org/api/rest_v1/media/math/render/svg/804a89c3db66ba10d1478b483f814cfb5acd02aa)
 
 ![attēls 2](https://wikimedia.org/api/rest_v1/media/math/render/svg/f82c21eabedd91293e4e653f5c6a107e41fe7a30)
+
+# Kāpināšana
+
+n-|	n2-	|n3-|	n4-|	n5-|	n6-|	n7-|	n8-|	n9-|	n10-|
+
+
+2-|	4-|	8-|	16-|	32-|	64-|	128-|	256-|	512-|	1024-|
 
 
