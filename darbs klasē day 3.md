@@ -31,3 +31,17 @@ Saglabāt Esc:wq
 
 Komandas Shell
 https://docs.cs.cf.ac.uk/notes/linux-shell-commands/
+
+_________
+Pico ; VIM
+:q! Lai izietu
+Esc:wq
+i Lai atkal dabūtu kursoru
+Shift v Lai iezīmētu
+y Ielikt clipboard
+p izkopēt
+gg sākums 
+Shift+g Beigas
+/ (teksts) lai meklētu
+
+ 
