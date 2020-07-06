@@ -76,3 +76,21 @@ n-|	n2-	|n3-|	n4-|	n5-|	n6-|	n7-|	n8-|	n9-|	n10-|
 2-|	4-|	8-|	16-|	32-|	64-|	128-|	256-|	512-|	1024-|
 
 
+# Bin to Hex
+
+How to Convert Binary to Hex
+Converting from binary to hex is easy since hexadecimal numbers are simplified versions of binary strings. You just need to remember that each hex digit represents four binary digits. It follows that four binary digits will be equal to one hex digit. The method is easier than it sounds but it’s always useful to use a binary to hex conversion chart to save time.
+
+Step 1: Write down the binary number and group the digits (0’s and 1’s) in sets of four. Start doing this from the right. If the leftmost group doesn’t have enough digits to make up a set of four, add extra 0’s to make a group.
+
+Step 2: Write 8, 4, 2 and 1 below each group. These are the weights of the positions or place holders in the number (23, 22, 21 and 20).
+
+Step 3: Every group of four in binary will give you one digit in hexadecimal. Multiply the 8, 4, 2 and 1’s by the digit above. 
+
+Step 4: Add the products within each set of four. Write the sums below the groups they belong to.
+
+Step 5: The digits you get from the sums in each group will give you the hexadecimal number, from left to right.
+
+
+* tabula https://www.binaryhexconverter.com/binary-to-hex-converter
+
