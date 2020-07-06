@@ -94,3 +94,20 @@ Step 5: The digits you get from the sums in each group will give you the hexadec
 
 * tabula https://www.binaryhexconverter.com/binary-to-hex-converter
 
+# HEX to DEC
+Multiply each digit of the hex number with its corresponding power of 16 and sum:
+
+decimal = dn-1×16n-1 + ... + d3×163 + d2×162 + d1×161+d0×160
+
+Example #1
+3B in base 16 is equal to each digit multiplied with its corresponding 16n:
+
+3B16 = 3×161+11×160 = 48+11 = 5910
+
+Example #2
+E7A9 in base 16 is equal to each digit multiplied with its corresponding 16n:
+
+E7A916 = 14×163+7×162+10×161+9×160 = 57344+1792+160+9 = 5930510
+
+* https://www.rapidtables.com/convert/number/hex-to-decimal.html
+
