@@ -33,3 +33,8 @@ bc Basic Calculator
 ""  izmanto teksta interpretēšanai
 
 `` izmanto funkcijai
+
+https://www.tutorialspoint.com/sed/sed_special_characters.htm 
+
+
+
