@@ -88,6 +88,18 @@ def f(x, y, z):
   print(c)
 
 f("Pēteris","10000000000", "232323232323")
+______
+
+In [17]: f = open("a.dat")
+
+In [18]: f.tell()
+Out[18]: 0
+
+In [19]: f.readline()
+Out[19]: '\n'
+
+In [20]: f.readline()
+Out[20]: '\\Esi sveicināts!\n'
 
 
 
