@@ -1,0 +1,39 @@
+Mājaslapas ir veidotas primāri no HTML,CSS un JavaScript.
+Assets:Ar šo saprot visus pārējos failus, ka veido mājaslapu (attēli,mūzika,video,word doc, PDF, u.c)
+
+
+Lielais uzdevums:
+Create static (local) web-page with JS with data visualisation (take data somewhere in i-net, for example, currency exchange)
+and plot these data (allow select number of curves, for example, nummber of currencies).
+
+WEb simple concept (who(or what); how; where is connected  and could be accesed.
+
+datori vai citas ierīces, kas pievienotas internetam var sadalīt divās grupās:
+1.klienti
+2.serveri
+
+Klienti ir internetam pievienotas ierīces (dators pievienots WiFi vai telefons pievienots mobilajam internetam) un internetam ierīces piekļūst caur browser programmu.
+
+Serveri ir datori kuros glabājas informācija: mājaslapas, aplikācijas u.c.
+Kad klienta dators vēlas piekļūt mājaslapai, tad šīs lapa kopija tiek lejuplādēta no servera klienta datorā un tiek attēlota lietotāja browser.
+
+#Interneta pieslēgums ļauj sūtīt un saņemt datus no interneta.
+#TCP/IP Transmission Control Protocol and Internet Protocol ir komunikācijas protokoli kas definē kā datiem jāpārvietojas internetā.
+#DNS Domain Name Servers Ir kā adrešu grāmata internetā.
+#HTTP Hypertext Transfer Protocol nosaka kopējo valodu starp klientiem un serveriem.
+#Component files Mājaslapa ir veidota no vairākiem failiem, kas sadalās divās daļās.
+Code files:Mājaslapas ir veidotas primāri no HTML,CSS un JavaScript.
+Assets:Ar šo saprot visus pārējos failus, ka veido mājaslapu (attēli,mūzika,video,word doc, PDF, u.c)
+
+Kas tieši notiek?
+1.Browser dodas uz DNS serveri un atrod patieso adresi kur atrodas mājaslapa.
+2.Browser sūta HTTP ziņu uz serveri ar prasību atsūtī kopiju no mājaslapas.izmantojot TCP/IP.
+3.Ja serveris akceptē prasību, tad serveris nosūta klientam "200 OK" ziņu. Kas nozīmē, ka prasība ir apstiprināta. Notiek failu pārsūtīšana.
+4.Browser apvieno atsūtītos failus un attēlo pilnā mājaslapas skatā
+
+DNS
+
+IP adrese izskatās kā 63.245.215.20 sastāv no 11 simboliem un sniedz informāciju par unikālo lokāciju Webā. Tomēr šo adresi nav viegli atcerēties, tādēļ izgudroja Domēna vārda serverus. "sie serveri kas savieno web adreses nosaukumu
+ (piem:"rtu.lv") ar web lapas īsto (IP) adresi.
+
+
