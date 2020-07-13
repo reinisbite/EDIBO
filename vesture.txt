@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reinisbite/EDIBO
+    4  ls - lt
+    5  ls -lt
+    6  mkdir Day9_Day10.
+    7  /EDIBO/Day9_Day10$ vim uzdevums.txt
+    8  /EDIBO/Day9_Day10 vim uzdevums.txt
+    9  cd EDIBO
+   10  mkdir Day9_Day10
+   11  pwd
+   12  ls
+   13  cd Day9_Day10
+   14  vim uzdevums.txt
+   15  ifconfig
+   16  traceroot google.com
+   17  tracerout google.com
+   18  traceroute google.com
+   19  vim uzdevums.txt
+   20  who
+   21  ls
+   22  cd
+   23  ls
+   24  cd EDIBO
+   25  pwd
+   26  ls
+   27  ./git-upload
+   28  cd
+   29  pwd
+   30  cd EDIBO
+   31  ls
+   32  cd Day9_Day10
+   33  ls -lt
+   34  nano index.html
+   35  pwd
+   36  nano index.html
+   37  cd ..
+   38  ls -lt
+   39  ./git-upload 20200713_18_10
+   40  vim git-upload
+   41  history > vesture.txt
