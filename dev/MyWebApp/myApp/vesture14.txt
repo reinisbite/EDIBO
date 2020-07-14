@@ -1,0 +1,149 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="$ "
+    4  git clone
+    5  git clone http://github.com/reinisbite/EDIBO
+    6  pwd
+    7  ls
+    8  cd EDIBO
+    9  ls
+   10  cd Day9
+   11  cd Day9_Day10
+   12  pwd
+   13  ls
+   14  nano index.html
+   15  nano split-html
+   16  index.html
+   17  nano index.html
+   18  cd
+   19  pwd
+   20  cd EDIBO
+   21  ls
+   22  cd Day9_Day10
+   23  ls
+   24  nano index.html
+   25  nano saraksts.html
+   26  ls
+   27  nano index.html
+   28  nano saraksts.html
+   29  nano index.html
+   30  nano saraksts.html
+   31  nano index.html
+   32  nano saraksts.html
+   33  nano index.html
+   34  nano grafiks.html
+   35  nano grafiks.html\
+   36  git clone http//:github.com/reinisbite/EDIBO
+   37  cd EDIBO
+   38  ls
+   39  cd Day9_Day10
+   40  ls
+   41  nano grafiks.html
+   42  nano index.html
+   43  nano index.html]
+   44  nano index.html
+   45  nano grafiks.html
+   46  nano index.html
+   47  nano grafiks.html
+   48  cd
+   49  pwd
+   50  cd EDIBO
+   51  ./git-upload
+   52  cd
+   53  pwd
+   54  sd
+   55  firefox
+   56  sd^Z
+   57  date
+   58  cal
+   59  cal 2020
+   60  cal 1
+   61  cal 1cal 1
+   62  ls
+   63  dotnet
+   64  dotnet --version
+   65  dotnet --info
+   66  cd EDIBO
+   67  PS1="$ "
+   68  ls
+   69  dotnet new console -o MyConsole
+   70  ls
+   71  ls Myconsole
+   72  MyConsoleApp
+   73  MyConsole
+   74  cd MyConsole
+   75  du MyConsole
+   76  du
+   77  pwd
+   78  cd MyConsole/
+   79  cd MyConsole
+   80  pwd
+   81  dotnet build
+   82  du -h MyConsole
+   83  du -h
+   84  dotnet run
+   85  ls
+   86  vim Program.cs
+   87  dotnet run
+   88  ls bin/Debug/netcorwapp3.1/MyConsole
+   89  ls bin/Debug/netcoreapp3.1/MyConsole
+   90  ls -l bin/Debug/netcoreapp3.1/MyConsole
+   91  dotnet bin/Debug/netcoreapp3.1/MyConsole.dll
+   92  cd ..
+   93  ls
+   94  mkdir dev; cd dev
+   95  pwd
+   96  dotnet new console -o MySecondConsoleApp
+   97  ls
+   98  cd MySecondConsoleApp/
+   99  dotnet run
+  100  dotnet build
+  101  dotnet run
+  102  ls
+  103  vim MySecondConsoleApp.csproj 
+  104  cd ..
+  105  pwd
+  106  cd MySecondConsoleApp
+  107  pwd
+  108  vim MySecondConsoleApp
+  109  dotnet run
+  110  ls
+  111  vim MySecondConsoleApp
+  112  vim Program.cs
+  113  cat Program.cs
+  114  vim Program.cs
+  115  dotnet run
+  116  vim Program.cs
+  117  dotnet run
+  118  vim Program.cs
+  119  dotnet run
+  120  vim Program.cs
+  121  dotnet run
+  122  vim Program.cs
+  123  code .
+  124  cd ..
+  125  pwd
+  126  ls
+  127  dotnet new webapp -o MyWebApp
+  128  cd MyWebapp
+  129  ls
+  130  cd MyWebApp
+  131  cd MyWebApp/
+  132  pwd
+  133  dotnet build
+  134  dotnet run
+  135  code .
+  136  dotnet run
+  137  dotnet build
+  138  dotnet new console -o MansApp
+  139  dotnet run
+  140  ls
+  141  vim program.cs
+  142  dotnet
+  143  dotnet new console -o myApp
+  144  cd myApp
+  145  vim Program.cs
+  146  dotnet run
+  147  node
+  148  nvm i 12
+  149  history>vesture14.txt

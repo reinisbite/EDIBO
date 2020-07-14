@@ -1,0 +1,13 @@
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/user/EDIBO/dev/MyWebApp/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/home/user/EDIBO/dev/MyWebApp/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache

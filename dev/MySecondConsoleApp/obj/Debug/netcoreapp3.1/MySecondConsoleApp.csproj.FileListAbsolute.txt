@@ -1,0 +1,13 @@
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp.deps.json
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp.runtimeconfig.json
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp.runtimeconfig.dev.json
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp.dll
+/home/user/EDIBO/dev/MySecondConsoleApp/bin/Debug/netcoreapp3.1/MySecondConsoleApp.pdb
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.csprojAssemblyReference.cache
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.AssemblyInfoInputs.cache
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.AssemblyInfo.cs
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.csproj.CoreCompileInputs.cache
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.dll
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.pdb
+/home/user/EDIBO/dev/MySecondConsoleApp/obj/Debug/netcoreapp3.1/MySecondConsoleApp.genruntimeconfig.cache
