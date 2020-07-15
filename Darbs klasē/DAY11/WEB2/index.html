@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<width=device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+Nosaukums
+    <today-date></today-date>
+   <script>
+
+class TodayDateComponent extends HTMLElement {
+   constructor(){
+       super();
+       setInterval(() => {
+           this.innerText = new Date();
+       }, 1000);
+
+
+       console.log('alive');
+       this.innerText=new Date();
+   } 
+}
+
+    const comp = customElements.define ('today-date', TodayDateComponent);
+    
+    </script>
+</body>
+</html>
