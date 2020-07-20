@@ -10,13 +10,17 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import { SlidersComponent } from './sliders/sliders.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
+import { SlidjoslaComponent } from './slidjosla/slidjosla.component';
+import { BildesComponent } from './bildes/bildes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     XyzComponent,
     SlidersComponent,
-    CheckboxComponent
+    CheckboxComponent,
+    SlidjoslaComponent,
+    BildesComponent
   ],
   imports: [
     BrowserModule,

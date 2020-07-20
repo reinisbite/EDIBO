@@ -1,0 +1,30 @@
+
+.content a{
+    color:green;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    background-color: purple;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-indent: 10px;
+    text-rendering: geometricPrecision;
+
+}
+.content a:hover{
+    background-color: mediumaquamarine;    
+}
+
+.content a.rinkis{
+    color:black
+}
+
+.content a.slidjosla{
+    color: cadetblue;
+}
+
+.content a.bildes{
+    color: darkgoldenrod;
+}

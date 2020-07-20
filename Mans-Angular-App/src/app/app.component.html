@@ -51,14 +51,14 @@
     margin: 0 16px;
   }
 
-  .toolbar #twitter-logo {
+  /* .toolbar #twitter-logo {
     height: 40px;
     margin: 0 16px;
   }
 
   .toolbar #twitter-logo:hover {
     opacity: 0.8;
-  }
+  } */
 
   .content {
     display: flex;
@@ -298,8 +298,12 @@
   }
 </style>
 
-<!-- Toolbar -->
+Toolbar
 <div class="toolbar" role="banner">
+  <a href="Ķeksīš">Ieliec Ķeksi!</a>
+  <a class="rinkis" href="Riņķotājs">Pa riņķi vien</a>
+  <a class="slidjosla" href="Slidjosla">Slidini tālāk vai tuvāk!</a>
+  <a class="bildes" href="Bildes">Ir gan skaisti</a>
   <img
     width="40"
     alt="Angular Logo"
@@ -315,7 +319,14 @@
     </a>
 </div>
 
+
+
 <div class="content" role="main">
+
+  <a href="Ķeksīš">Ieliec Ķeksi!</a>
+  <a class="rinkis" href="Riņķotājs">Pa riņķi vien</a>
+  <a class="slidjosla" href="Slidjosla">Slidini tālāk vai tuvāk!</a>
+  <a class="bildes" href="Bildes">Ir gan skaisti</a>
 
   <!-- Highlight Card -->
   <div class="card highlight-card card-small">
@@ -337,17 +348,6 @@
     </svg>
 
   </div>
-
-  <mat-slider min="1" max="100" step="1" value="1"></mat-slider>
-
-<p>
-  <img [src]="imagesrc" alt="Zaļa lapa">
-</p>
-
-<app-sliders></app-sliders>
-
-
-<app-checkbox></app-checkbox>
 
 
 <router-outlet></router-outlet>
