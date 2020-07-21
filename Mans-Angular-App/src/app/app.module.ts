@@ -12,6 +12,8 @@ import { SlidersComponent } from './sliders/sliders.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
 import { SlidjoslaComponent } from './slidjosla/slidjosla.component';
 import { BildesComponent } from './bildes/bildes.component';
+import { CurrencyModule } from './currency/currency.module';
+import { WeatherModule } from './weather/weather.module';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,7 @@ import { BildesComponent } from './bildes/bildes.component';
     SlidersComponent,
     CheckboxComponent,
     SlidjoslaComponent,
-    BildesComponent
+    BildesComponent,
   ],
   imports: [
     BrowserModule,
@@ -28,7 +30,9 @@ import { BildesComponent } from './bildes/bildes.component';
     MatSliderModule,
     BrowserAnimationsModule,
     MatProgressSpinnerModule,
-    MatCheckboxModule
+    MatCheckboxModule,
+    CurrencyModule,
+    WeatherModule
   ],
   providers: [],
   bootstrap: [AppComponent]
