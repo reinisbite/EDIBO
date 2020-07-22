@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x1tBqwPY4onnYuGx+KaVsd5sbhg20501BX4xp3uvVeMUZnUL2pByTDst3++kElX4jaURSd+CiqghL7bSD8Tu+A==",
+  "dgSpecHash": "Y9ZIbNRAEd0GmFWvowdvoWm19rleOigHQbAmWn/iv8X21xR2zmTjcrkK4UQytvcS1OkEHitBamgwGYUkLfBKOA==",
   "success": true,
-  "projectFilePath": "/home/user/dev/MyFirstWebApi/MyFirstWebApi.csproj",
+  "projectFilePath": "/home/user/EDIBO/Darbs klasē/DAY11/dev/MyFirstWebApi/MyFirstWebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

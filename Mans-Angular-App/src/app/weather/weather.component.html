@@ -10,8 +10,10 @@
     <th>slēdziens</th>
   </thead>
   <tbody>
+
     <tr *ngFor="let weather of weathers">
-      <td center>{{weather.w.date}}</td>
+
+      <td>{{weather.w.date}}</td>
       <td>{{weather.w.temperatureC}}</td>
       <td>{{weather.w.temperatureF}}</td>
       <td>{{weather.w.summary}}</td>

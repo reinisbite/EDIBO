@@ -1,7 +1,7 @@
 
 .content a{
-    color:green;
-    font-size: 30px;
+    color:black;
+    font-size: 20px;
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
@@ -22,9 +22,13 @@
 }
 
 .content a.slidjosla{
-    color: cadetblue;
+    color: black;
 }
 
 .content a.bildes{
-    color: darkgoldenrod;
+    color: black;
+}
+
+:host{
+    background-color: chocolate;
 }

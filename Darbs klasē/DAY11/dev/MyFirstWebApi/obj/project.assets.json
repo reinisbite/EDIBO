@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/dev/MyFirstWebApi/MyFirstWebApi.csproj",
+      "projectUniqueName": "/home/user/EDIBO/Darbs klasē/DAY11/dev/MyFirstWebApi/MyFirstWebApi.csproj",
       "projectName": "MyFirstWebApi",
-      "projectPath": "/home/user/dev/MyFirstWebApi/MyFirstWebApi.csproj",
+      "projectPath": "/home/user/EDIBO/Darbs klasē/DAY11/dev/MyFirstWebApi/MyFirstWebApi.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/dev/MyFirstWebApi/obj/",
+      "outputPath": "/home/user/EDIBO/Darbs klasē/DAY11/dev/MyFirstWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
